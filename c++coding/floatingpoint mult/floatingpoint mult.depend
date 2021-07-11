@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1609525618 source:e:\level_3_1\computer_architecture\cs322 - fall 2020 - assignments\assignment_3_v1\c++coding\floatingpoint mult\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
